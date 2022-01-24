@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AspireQA" duration-ms="88692" started-at="2022-01-25T00:19:20 IST" finished-at="2022-01-25T00:20:49 IST">
+    <groups>
+    </groups>
+    <test name="AspireQDV Test" duration-ms="88692" started-at="2022-01-25T00:19:20 IST" finished-at="2022-01-25T00:20:49 IST">
+      <class name="com.aspire.test.ValidateOrder">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.aspire.test.ValidateOrder@6b09bb57]" name="setup" is-config="true" duration-ms="4428" started-at="2022-01-25T00:19:20 IST" finished-at="2022-01-25T00:19:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ValidateOrderTest()[pri:0, instance:com.aspire.test.ValidateOrder@6b09bb57]" name="ValidateOrderTest" duration-ms="83574" started-at="2022-01-25T00:19:24 IST" finished-at="2022-01-25T00:20:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateOrderTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.aspire.test.ValidateOrder@6b09bb57]" name="closeDriver" is-config="true" duration-ms="658" started-at="2022-01-25T00:20:48 IST" finished-at="2022-01-25T00:20:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.aspire.test.ValidateOrder -->
+    </test> <!-- AspireQDV Test -->
+  </suite> <!-- AspireQA -->
+</testng-results>

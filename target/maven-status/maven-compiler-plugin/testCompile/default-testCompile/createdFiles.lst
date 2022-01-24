@@ -1,0 +1,9 @@
+com\aspire\pageobject\ProductPage.class
+com\aspire\pageobject\ProductCreatePage.class
+com\aspire\test\BaseClass.class
+com\aspire\test\ValidateOrder.class
+com\aspire\pageobject\ManufacturingPage.class
+com\aspire\pageobject\InventoryPage.class
+com\aspire\pageobject\HomePage.class
+com\aspire\pageobject\LoginPage.class
+com\aspire\utils\ReadConfig.class
